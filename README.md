@@ -14,6 +14,8 @@ itemHeight     | `int -> int`  | Return the height of item at index.
 scrollPosition | `int`         | Distance from the top of the list.
 viewportHeight | `int`         | Height of the viewport.
 
+All lists should render items as randomly colored rectangles.
+
 ## Implementations
 
 ### Dart (React-Dart)
